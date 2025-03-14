@@ -1,3 +1,3 @@
-# Consistent Subject Generation via Contrastive Initiated Concepts
+# Consistent Subject Generation via Contrastive Instantiated Concepts
 
 Coming soon.
